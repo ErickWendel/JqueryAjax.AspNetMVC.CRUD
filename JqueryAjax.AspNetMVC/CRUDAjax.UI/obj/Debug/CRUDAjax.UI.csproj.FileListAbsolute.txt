@@ -25,3 +25,11 @@ C:\Users\Aluno\Desktop\JqueryAjax.AspNetMVC.CRUD\JqueryAjax.AspNetMVC\CRUDAjax.U
 C:\Users\Aluno\Desktop\JqueryAjax.AspNetMVC.CRUD\JqueryAjax.AspNetMVC\CRUDAjax.UI\obj\Debug\CRUDAjax.UI.csprojResolveAssemblyReference.cache
 C:\Users\Aluno\Desktop\JqueryAjax.AspNetMVC.CRUD\JqueryAjax.AspNetMVC\CRUDAjax.UI\obj\Debug\CRUDAjax.UI.dll
 C:\Users\Aluno\Desktop\JqueryAjax.AspNetMVC.CRUD\JqueryAjax.AspNetMVC\CRUDAjax.UI\obj\Debug\CRUDAjax.UI.pdb
+C:\Users\Erick-User\Documents\GitHub\JqueryAjax.AspNetMVC.CRUD\JqueryAjax.AspNetMVC\CRUDAjax.UI\bin\CRUDAjax.UI.dll.config
+C:\Users\Erick-User\Documents\GitHub\JqueryAjax.AspNetMVC.CRUD\JqueryAjax.AspNetMVC\CRUDAjax.UI\bin\CRUDAjax.UI.dll
+C:\Users\Erick-User\Documents\GitHub\JqueryAjax.AspNetMVC.CRUD\JqueryAjax.AspNetMVC\CRUDAjax.UI\bin\CRUDAjax.UI.pdb
+C:\Users\Erick-User\Documents\GitHub\JqueryAjax.AspNetMVC.CRUD\JqueryAjax.AspNetMVC\CRUDAjax.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Erick-User\Documents\GitHub\JqueryAjax.AspNetMVC.CRUD\JqueryAjax.AspNetMVC\CRUDAjax.UI\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\Erick-User\Documents\GitHub\JqueryAjax.AspNetMVC.CRUD\JqueryAjax.AspNetMVC\CRUDAjax.UI\obj\Debug\CRUDAjax.UI.csprojResolveAssemblyReference.cache
+C:\Users\Erick-User\Documents\GitHub\JqueryAjax.AspNetMVC.CRUD\JqueryAjax.AspNetMVC\CRUDAjax.UI\obj\Debug\CRUDAjax.UI.dll
+C:\Users\Erick-User\Documents\GitHub\JqueryAjax.AspNetMVC.CRUD\JqueryAjax.AspNetMVC\CRUDAjax.UI\obj\Debug\CRUDAjax.UI.pdb

@@ -34,7 +34,7 @@ namespace CRUDAjax.Controllers
                 throw;
             }
         }
-
+        //por padrão será HttpGet, entao nao precisamos informar no atributo
         public ActionResult Editar(int id)
         {
             try

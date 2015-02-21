@@ -31,11 +31,11 @@ namespace CRUDAjax.UI.Models.DbContext
         public void Cadastrar(PessoaModel pessoa)
         {
             //para o objeto static, fizemos esta logica para a cada nova pessoa, adicionar um novo Id
-            var y = 1;
+            var id = 1;
             //vai incrementando a variavel até que nao existir
-            while (_listPessoas.Any(x => x.Id == y))
-                y++;
-            pessoa.Id = y;
+            while (_listPessoas.Any(x => x.Id == id))
+                id++;
+            pessoa.Id = id;
             //adiciona a pessoa no nosso banco fantasia
             _listPessoas.Add(pessoa);
         }
@@ -92,7 +92,7 @@ namespace CRUDAjax.UI.Models.DbContext
         public IEnumerable<PessoaModel> Listar()
         {
             //caso nulo retorna null, senao retorna a lista de pessoas
-            return _listPessoas ?? _listPessoas;
+            return _listPessoas;
         }
 
     }
