@@ -56,6 +56,7 @@ function Listar() {
             //verifica se o dado nao veio vazio
             if (dadosPessoa.length == 0) {
                 $('table').addClass('hidden');
+                
             } else {
                 $('table').removeClass('hidden');
 
