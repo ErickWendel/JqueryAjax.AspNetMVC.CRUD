@@ -7,7 +7,7 @@ Listar();
 
 function Cadastrar() {
 
-    //com a função serialize(), pegamos todo o objeto do formulario e transformamos em uma string em serie
+    //com a função serialize(), pegamos o objeto do formulario e transformamos em uma string em serie
     var dadosSerializados = $('#formDados').serialize();
 
     //inicializamos o AJAX
@@ -53,8 +53,11 @@ function Listar() {
         //repare que nao precisamos passar o atributo DATA quando nossa action nao possui parâmetros
         //feita a requisição, recebemos os dados em JSON
         success: function (dadosPessoa) {
-
-            if (dadosPessoa != null) {
+            //verifica se o dado nao veio vazio
+            if (dadosPessoa.length == 0) {
+                $('table').addClass('hidden');
+            } else {
+                $('table').removeClass('hidden');
 
                 //para fins de estudo, removeremos todo conteudo da tr, a cada chamada na listagem
                 //caso nao existir as 'tr' ele ignora este metodo
