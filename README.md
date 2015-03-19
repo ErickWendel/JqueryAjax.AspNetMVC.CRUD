@@ -8,7 +8,7 @@
   <li>JQUERY-AJAX</li>
 <br>  
 <p>Exemplo de aplicação SPA completa, fazendo o uso da ferramenta AJAX-JQUERY para operações de CRUD (Create, Read, Update e Delete) no back-end ASP.NET MVC 5 em real-time.<br>
-
+<p> Faz parte do artigo <a href="http://netcoders.com.br/blog/spa-asp-net-mvc-5-parte-1-0/"> SPA Utilizando ASP.NET MVC 5 </a>
    Para este exemplo foi utilizado somente uma lista estática para armazenamento das informações, não sendo necessário um banco de dados.<br>
 
    É ideal para quem possui dúvidas de sintaxe e aplicação do Ajax no seu dia-a-dia.<br>
